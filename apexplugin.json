@@ -9,7 +9,8 @@
     "email" : "support@plug-ins-pro.com"
   },
   "license" : "MIT",
-  "commercial" : "Yes",
+  "commercial" : "No",
+  "commercially_supported":"Yes",  
   "author" : {
     "name" : "United Codes",
     "email" : "info@plug-ins-pro.com",
