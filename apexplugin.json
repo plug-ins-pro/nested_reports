@@ -26,7 +26,7 @@
       "versions" : ["19.2.0", "20.1.0", "20.2.0"],
       "plugin" : {
         "internalName" : "UNITEDCODES_NESTED_REPORTS",
-        "type" : "item",
+        "type" : "dynamic action",
         "demo" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/nested_reports/home",
         "previewImage" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/592/files/static/v19/home-promo.gif"
       }
