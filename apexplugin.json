@@ -1,35 +1,36 @@
 {
-  "name" : "UC Nested Reports",
-  "version" : "20.1",
-  "description" : "Create nested reports within native Oracle APEX components that are interactive and highly customizable! Supports Classic Reports, Interactive Reports and static HTML tables.",
-  "keywords" : ["SQL","Nested","Interactive Report","Classic Report"],
-  "homepage" : "https://www.plug-ins-pro.com/",
-  "bugs" : {
-    "url" : "https://github.com/plug-ins-pro/nested_reports/issues",
-    "email" : "support@plug-ins-pro.com"
-  },
-  "license" : "Commercial",
-  "commercial" : "Yes",
-  "commercially_supported":"Yes",  
-  "author" : {
-    "name" : "United Codes",
-    "email" : "info@plug-ins-pro.com",
-    "url" : "https://www.united-codes.com/"
-  },
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/plug-ins-pro/nested_reports"
-  },
- "oracle" : {
-    "versions" : ["11.2.0.1", "12.x", "18.x", "19.x"],
-    "apex" : {
-      "versions" : ["19.2.0", "20.1.0", "20.2.0"],
-      "plugin" : {
-        "internalName" : "UNITEDCODES_NESTED_REPORTS",
-        "type" : "dynamic action",
-        "demo" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/nested_reports/home",
-        "previewImage" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/592/files/static/v19/home-promo.gif"
+    "name" : "Nested Reports",
+    "version" : "20.1",
+    "description" : "Create nested reports within native Oracle APEX components that are interactive and highly customizable! Supports Classic Reports, Interactive Reports and static HTML tables.",
+    "keywords" : ["SQL","Nested","Interactive Report","Classic Report"],
+    "homepage" : "https://www.plug-ins-pro.com/",
+    "bugs" : {
+      "url" : "https://github.com/plug-ins-pro/nested_reports/issues",
+      "email" : "support@plug-ins-pro.com"
+    },
+    "license" : "Commercial",
+    "commercial" : "Yes",
+    "commercially_supported":"Yes",  
+    "author" : {
+      "name" : "United Codes",
+      "email" : "info@plug-ins-pro.com",
+      "url" : "https://www.united-codes.com/"
+    },
+    "repository" : {
+      "type" : "git",
+      "url" : "https://github.com/plug-ins-pro/nested_reports"
+    },
+   "oracle" : {
+      "versions" : ["11.2.0.1", "12.x", "18.x", "19.x"],
+      "apex" : {
+        "versions" : ["19.2.0", "20.1.0", "20.2.0"],
+        "plugin" : {
+          "internalName" : "UNITEDCODES_NESTED_REPORTS",
+          "type" : "dynamic action",
+          "demo" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/nested_reports/home",
+          "previewImage" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/592/files/static/v19/home-promo.gif"
+        }
       }
     }
   }
-}
+  
