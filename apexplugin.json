@@ -1,6 +1,6 @@
 {
-    "name" : "Nested Reports",
-    "version" : "20.1",
+    "name" : "UC - Nested Reports",
+    "version" : "23.1",
     "description" : "Create nested reports within native Oracle APEX components that are interactive and highly customizable! Supports Classic Reports, Interactive Reports and static HTML tables.",
     "keywords" : ["SQL","Nested","Interactive Report","Classic Report"],
     "homepage" : "https://www.plug-ins-pro.com/",
